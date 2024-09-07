@@ -1,0 +1,39 @@
+Module 1: Basic Building Blocks
+
+In this module I learned how to create a variable and a vector, how to use help comman, arithmetic with vecots, vector recycling, and tricks that make using the console easier.
+
+Module 2: Workspace and Files
+
+Learned common API for working with files, then learned how to deal with directories, and finally learned how manipulate and see the properties of files in a directory.
+
+Module 3: Sequences of Numbers
+
+Learned how to use the : operator, then the seq function, along, and length. Next learned how to use the rep function.
+
+Module 4: Vectors
+
+Learned how logical vecotrs work, how they interact with other vectors, and logic operators. Next I learned about charachter vectors and how to manipulate them as well as how to use the paste function.
+
+Module 5: Missing Values
+
+Leanred about missing values (NA), sample, is.na, how NA works with logic, and finally NAN.
+
+Module 6: Subsetting Vectors
+
+First I learned about index vectors, how to save a vector of a vector without NAs, how to use index vectors to filter vectors, how to isolate variables in certain locations in a vector, how to see ever variable but variabes in certain locations, and finally how to name variables in vectors.
+
+Module 7: Matrices and Data Frames
+
+Learned about dim and attributes and how dim can make a vector into a matrix, then the matrix function, next was coercion and when it happens, and finally how to assign row and column names.
+
+Module 8: Logic
+
+Learned all of the logical operators and how they work as well as commands that tell us if certian conditions are ture about a vector.
+
+Module 9: Functions
+
+In this module I leanred how to make functions, starting with basic functions, then functions ones that manipulate inputs, and then functions with static input variables. Then learned about one line functions and binary functions.
+
+Module 12: Looking at Data
+
+Leanred how to see the properties of data within R as well as how to look at certain parts of a data table and summaries of the table.
